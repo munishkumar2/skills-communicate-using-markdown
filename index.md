@@ -7,3 +7,7 @@
 let  count = 0;
 let rows = [];
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
